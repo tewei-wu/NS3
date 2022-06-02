@@ -3,10 +3,7 @@
  * [SOLVED] If LOG_INFO print nothing.
 
 ```bash
-cp examples/tutorial/first.cc scratch/myfirst.cc
-./waf  # compile
-./waf --run scratch/myfirst
-``
+./waf --run scratch/first
 
 But No output ..
 
