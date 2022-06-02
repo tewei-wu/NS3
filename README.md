@@ -1,6 +1,6 @@
 # NS3
 
-*** If log info don't work 
+ * If log info don't work 
 
 ```bash
 cp examples/tutorial/first.cc scratch/myfirst.cc
